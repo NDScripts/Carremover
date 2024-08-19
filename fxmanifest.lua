@@ -8,10 +8,6 @@ description 'Free car remover by N&D Scripts'
 
 client_scripts {
 	'@ox_lib/init.lua',
-	'config/*.lua',
-	'client/*.lua'
-}
-
-escrow_ignore {
-    "config/*.lua"
+	'config.lua',
+	'client.lua'
 }
