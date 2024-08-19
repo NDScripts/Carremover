@@ -8,7 +8,7 @@ Youtube:
 https://www.youtube.com/channel/UCbOJ-JPkXOTyebj8JfMj4AQ
 
 Discord:
-https://discord.gg/nfHb2HHK3a
+[Discord](https://discord.gg/mgSrvW2ZPz)
 
 You can config time an translate notify.
 
